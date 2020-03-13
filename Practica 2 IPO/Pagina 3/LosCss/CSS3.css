@@ -1,0 +1,124 @@
+
+html{
+	font-family: 'Fredoka One';
+}
+
+body{
+	background-color: #FFB9ECAA;
+}
+
+div{
+	padding-left:5%;
+	padding-right:5%;
+	border-radius: 15px;
+	border: #000 5px solid;
+	margin:60px;
+	text-align: center;
+}
+
+p{
+	margin: 30px;
+	border-radius: 10px;
+	font-size: 20px;
+	font-weight: bold;
+}
+#top{
+	width: 150px;
+	height:30%;
+	float: left;
+	margin-left: 0px;
+	margin: 0;
+	background-color: #FFD4B9;
+	border-radius: 15px;
+	border: #000 2px solid;
+}
+#top a{ 
+  color: black; 
+  display: block; 
+  padding: 12px; 
+  text-decoration: none;
+  overflow: hidden; 
+}
+#top a:hover{
+	background-color:#FFB486;
+	color: #000;
+	border-radius: 15px;
+	box-shadow: inset 0 0 0 3px #FFF;
+}
+hr{
+	display:none;
+}
+#Necesidades{
+
+	background-color: #CCFFB9;
+	margin-left: 160px;
+}
+
+
+#sinopsis{
+	background-color: #CCFFB9;
+	margin-left: 160px;
+
+}
+#Tecnologias{
+	background-color:#CCFFB9 ;
+	margin-left: 160px;
+}
+#Impacto{
+	background-color:#CCFFB9; 
+	margin-left: 160px;
+}
+#Referencias{
+	background-color:#FFB9C4;
+	margin-left: 160px;
+}
+h2{
+	background-color: #FFB9C4;
+	color:black;
+	width:75%;
+	margin-left:12%;
+	border-radius: 15px;
+	border: #000 5px solid;
+	text-align:center;
+}
+
+h6{
+	background-color: black;
+	color:white;
+	padding-bottom: 15px;
+	border-radius: 15px;
+	text-align:center;
+	font-size: 25px;
+	max-height: 15px;
+}
+
+h5{
+	background-color: #CCFFB9;
+	color:black;
+	width:75%;
+	margin-left:15%;
+	border-radius: 15px;
+	border: #000 5px solid;
+	text-align:center;
+}
+
+u{
+	display: block;
+	max-height: 30px;
+	text-align: center;
+ 
+}
+
+img{
+	max-width: 45px;
+	max-height: 45px;
+}
+
+.media {
+	max-width: 300px;
+	max-height: 150px;
+	border-radius: 15px;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}

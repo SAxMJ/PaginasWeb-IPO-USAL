@@ -1,0 +1,107 @@
+html {
+	font-family: 'Source Code Pro';
+	background-image: url(../imagenes/fondo2.jpg);
+	background-attachment: fixed;
+
+}
+
+body {
+	background-color: #9ACAFFAA;
+	margin: 40px 20px 40px 20px;
+
+}
+
+
+nav {
+	background-color: #9ACAFFAA;
+	padding: 20px 0px 20px 0px;
+	margin: 20px;
+
+	
+}
+
+#cab {
+
+	padding: 20px 20px 20px 20px;
+	font-size: 30px;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+}
+
+#cab:hover {
+	font-size: 40px;
+	background-color: #FFD491;
+	transition-duration:0.5s;
+}
+
+img{
+	max-width: 300px;
+	max-height: 300px;
+}
+
+
+h6 {
+
+	text-align: center;
+	margin: 20px 0px 20px 50px;
+}
+
+h2 {
+	color: black;
+	background-color: #FFD491;
+	max-width: 180px;
+	text-align: center;
+}
+
+h3 {
+	color: #FFD491;
+	
+	
+}
+p {
+	color:white;
+	font-size: 20px;
+	margin: 20px;
+}
+
+.to_top {
+	color: white;
+}
+
+#necesidades, #sinopsis,#tecnologias,#impacto,#referencias {
+	padding: 10px 20px 0px 0px;
+	margin: 20px;
+	background-color: #000000AA;
+}
+
+a {
+	color: #FFFFFF;
+	margin: 0px;
+}
+
+a:hover {
+	color: #FFD491;
+	margin: 0px;
+}
+
+span {
+	color:#FFFFFF;
+}
+
+.refi {
+	color:#FFD491;
+}
+
+hr{
+	margin: 20px 0px 50px 0px
+}
+
+.home {
+	max-width: 1%;
+	text-align: center;
+}
+
+.media {
+	margin: 20px;
+}
